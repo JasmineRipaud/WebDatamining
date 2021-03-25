@@ -25,7 +25,9 @@ def query_choice():
     print("\n 2) afficher le nom des gares situées dans une région de votre choix")
     print("\n 3) afficher le nom des gares et bibliothèques situées dans un département de votre choix")
     print("\n 4) afficher le nom des gares et bibliothèques situées dans une région de votre choix")
-
+    print("\n 5) afficher les différentes régions desservies par les gares de TGV")
+    print("\n 6) afficher les bibliothèques situées dans une ville de votre choix")
+    print("\n 7) formuler votre propre requête")
 
 
 
@@ -100,8 +102,43 @@ def main():
         
         LIMIT 10
         """
+        
+        
+    if x=="5":
+        query="""prefix ont:<http://www.owl-ontologies.com/unnamed.owl#>
+
+        SELECT distinct ?nomRegion
+        WHERE {
+        ?subject ont:Gare ?g .
+        ?g ont:Region ?nomRegion .
+        
+        }"""
+        
+        
+    if x=="6":
+        ville=input("Saisissez le nom d'une ville ")
+        query="""prefix ont:<http://www.owl-ontologies.com/unnamed.owl#>
+        SELECT distinct ?enseignement_superieur ?public 
+        WHERE {
+        ?sub1 ont:biblies ?b1 .
+        ?sub2 ont:biblip ?b2 .
+        ?b1 ont:Libelle ?enseignement_superieur .
+        ?b2 ont:Libelle ?public .
+        ?b1 ont:Ville ?ville .
+        ?b1 ont:Ville '"""+ville+"""' .
+        ?b2 ont:Ville '"""+ville+"""' .
+        }
+        LIMIT 10
+        """
+  
+    
+    if x=="7":
+        reg=input("Saisissez votre requête (sans les préfixes) ")
+        query="""prefix ont:<http://www.owl-ontologies.com/unnamed.owl#> """
+        query=query+reg
     print(query)
     select_query(query)
+    
 
 
 if __name__ == '__main__':
