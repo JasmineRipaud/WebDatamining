@@ -26,7 +26,7 @@ def query_choice():
     print("\n 3) afficher le nom des gares et bibliothèques situées dans un département de votre choix")
     print("\n 4) afficher le nom des gares et bibliothèques situées dans une région de votre choix")
     print("\n 5) afficher les différentes régions desservies par les gares de TGV")
-    print("\n 6) afficher les bibliothèques situées dans une ville de votre choix")
+    print("\n 6) afficher les départements desservis par une gare ou les départements ayant une bibliothèque d'enseignement supérieur pour une région donnée")
     print("\n 7) affichage des noms des bibliothèques en fonction d'un code postal")
     print("\n 8) formuler votre propre requête")
 
@@ -117,20 +117,20 @@ def main():
         
         
     if x=="6":
-        ville=input("Saisissez le nom d'une ville ")
+        region=input("Saisissez le nom d'une region ")
         query="""prefix ont:<http://www.owl-ontologies.com/unnamed.owl#>
-        SELECT distinct ?enseignement_superieur ?public 
+
+        SELECT distinct ?depb ?depg
         WHERE {
-        ?sub1 ont:biblies ?b1 .
-        ?sub2 ont:biblip ?b2 .
-        ?b1 ont:Libelle ?enseignement_superieur .
-        ?b2 ont:Libelle ?public .
-        ?b1 ont:Ville ?ville .
-        ?b1 ont:Ville '"""+ville+"""' .
-        ?b2 ont:Ville '"""+ville+"""' .
+        ?obj ont:biblies ?b .
+        ?b ont:Region '"""+region+"""' .
+        ?b ont:Departement ?depb .
+        
+        ?obg ont:biblies ?g .
+        ?g ont:Region '"""+region+"""' .
+        ?g ont:Departement ?depg 
         }
         LIMIT 10
-        """
   
     if x=="7":
         ville=input("Saisissez un code postal ")
