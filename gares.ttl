@@ -1,0 +1,732 @@
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b1 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b10 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b100 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b101 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b102 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b103 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b104 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b105 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b106 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b107 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b108 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b109 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b11 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b110 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b111 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b112 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b113 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b114 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b115 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b116 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b117 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b118 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b119 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b12 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b120 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b121 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b122 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b123 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b124 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b125 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b126 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b127 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b128 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b129 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b13 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b130 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b131 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b132 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b133 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b134 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b135 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b136 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b137 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b138 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b139 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b14 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b140 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b141 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b142 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b143 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b144 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b145 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b146 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b147 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b148 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b149 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b15 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b150 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b151 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b152 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b153 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b154 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b155 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b156 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b157 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b158 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b159 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b16 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b160 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b161 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b162 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b163 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b164 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b165 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b166 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b167 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b168 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b169 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b17 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b170 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b171 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b172 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b173 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b174 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b175 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b176 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b177 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b178 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b179 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b18 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b180 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b181 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b182 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b183 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b19 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b2 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b20 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b21 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b22 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b23 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b24 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b25 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b26 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b27 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b28 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b29 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b3 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b30 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b31 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b32 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b33 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b34 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b35 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b36 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b37 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b38 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b39 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b4 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b40 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b41 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b42 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b43 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b44 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b45 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b46 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b47 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b48 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b49 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b5 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b50 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b51 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b52 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b53 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b54 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b55 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b56 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b57 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b58 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b59 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b6 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b60 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b61 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b62 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b63 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b64 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b65 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b66 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b67 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b68 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b69 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b7 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b70 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b71 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b72 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b73 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b74 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b75 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b76 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b77 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b78 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b79 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b8 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b80 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b81 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b82 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b83 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b84 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b85 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b86 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b87 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b88 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b89 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b9 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b90 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b91 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b92 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b93 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b94 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b95 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b96 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b97 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b98 .
+_:b0 <http://www.owl-ontologies.com/unnamed.owl#Gare> _:b99 .
+_:b1 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ain" .
+_:b1 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Aix-en-Provence TGV" .
+_:b1 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b10 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ardennes" .
+_:b10 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Charleville-M�zi�res" .
+_:b10 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b100 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b100 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Hazebrouck" .
+_:b100 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b101 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b101 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lille-Europe" .
+_:b101 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b102 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b102 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lille-Flandres" .
+_:b102 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b103 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b103 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Roubaix" .
+_:b103 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b104 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b104 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Tourcoing" .
+_:b104 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b105 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b105 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Valenciennes" .
+_:b105 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b106 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Oise" .
+_:b106 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Boulogne-Ville" .
+_:b106 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b107 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pas-de-Calais" .
+_:b107 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Arras" .
+_:b107 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b108 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pas-de-Calais" .
+_:b108 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "B�thune" .
+_:b108 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b109 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pas-de-Calais" .
+_:b109 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Calais - Fr�thun" .
+_:b109 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b11 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ardennes" .
+_:b11 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Rethel" .
+_:b11 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b110 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pas-de-Calais" .
+_:b110 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Calais-Ville" .
+_:b110 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b111 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pas-de-Calais" .
+_:b111 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "�taples - Le Touquet" .
+_:b111 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b112 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pas-de-Calais" .
+_:b112 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lens" .
+_:b112 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b113 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pas-de-Calais" .
+_:b113 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Rang-du-Fliers - Verton" .
+_:b113 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b114 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pyr�n�es-Atlantiques" .
+_:b114 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Bayonne" .
+_:b114 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b115 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pyr�n�es-Atlantiques" .
+_:b115 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Biarritz" .
+_:b115 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b116 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pyr�n�es-Atlantiques" .
+_:b116 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Hendaye" .
+_:b116 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b117 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pyr�n�es-Atlantiques" .
+_:b117 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Orthez" .
+_:b117 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b118 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pyr�n�es-Atlantiques" .
+_:b118 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Pau" .
+_:b118 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b119 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pyr�n�es-Atlantiques" .
+_:b119 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Jean-de-Luz - Ciboure" .
+_:b119 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b12 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ardennes" .
+_:b12 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Sedan" .
+_:b12 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b120 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Hautes-Pyr�n�es" .
+_:b120 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lourdes" .
+_:b120 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b121 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Hautes-Pyr�n�es" .
+_:b121 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Tarbes" .
+_:b121 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b122 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Pyr�n�es-Orientales" .
+_:b122 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Perpignan" .
+_:b122 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b123 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Bas-Rhin" .
+_:b123 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saverne" .
+_:b123 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b124 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Bas-Rhin" .
+_:b124 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "S�lestat" .
+_:b124 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b125 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Bas-Rhin" .
+_:b125 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Strasbourg-Ville" .
+_:b125 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b126 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haut-Rhin" .
+_:b126 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Colmar" .
+_:b126 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b127 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haut-Rhin" .
+_:b127 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Mulhouse-Ville" .
+_:b127 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b128 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Rh�ne" .
+_:b128 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Besan�on Franche-Comt� TGV" .
+_:b128 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b129 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Rh�ne" .
+_:b129 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lyon-Part-Dieu" .
+_:b129 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b13 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Aube" .
+_:b13 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Dijon-Ville" .
+_:b13 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b130 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Rh�ne" .
+_:b130 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lyon-Perrache" .
+_:b130 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b131 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Rh�ne" .
+_:b131 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lyon-Saint-Exup�ry TGV" .
+_:b131 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b132 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Rh�ne" .
+_:b132 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Marne-la-Vall�e - Chessy" .
+_:b132 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b133 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Rh�ne" .
+_:b133 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Paris-Gare-de-Lyon" .
+_:b133 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b134 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Sa�ne" .
+_:b134 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Dole-Ville" .
+_:b134 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b135 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Sa�ne-et-Loire" .
+_:b135 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Chalon-sur-Sa�ne" .
+_:b135 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b136 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Sa�ne-et-Loire" .
+_:b136 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Le Creusot - Montceau - Montchanin" .
+_:b136 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b137 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Sa�ne-et-Loire" .
+_:b137 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "M�con-Loch� TGV" .
+_:b137 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b138 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Sarthe" .
+_:b138 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Le Mans" .
+_:b138 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b139 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Sarthe" .
+_:b139 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Sabl�-sur-Sarthe" .
+_:b139 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b14 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Aude" .
+_:b14 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Carcassonne" .
+_:b14 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b140 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b140 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Aime-La Plagne" .
+_:b140 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b141 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b141 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Aix-les-Bains-Le Revard" .
+_:b141 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b142 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b142 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Albertville" .
+_:b142 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b143 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b143 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Bourg-Saint-Maurice" .
+_:b143 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b144 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b144 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Chamb�ry - Challes-les-Eaux" .
+_:b144 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b145 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b145 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Landry" .
+_:b145 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b146 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b146 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Modane" .
+_:b146 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b147 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b147 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Mo�tiers - Salins - Brides-les-Bains" .
+_:b147 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b148 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b148 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Avre - La Chambre" .
+_:b148 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b149 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Savoie" .
+_:b149 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Jean-de-Maurienne - Vall�e de l'Arvan" .
+_:b149 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b15 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Aude" .
+_:b15 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Narbonne" .
+_:b15 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b150 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Savoie" .
+_:b150 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Annecy" .
+_:b150 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b151 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Savoie" .
+_:b151 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Annemasse" .
+_:b151 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b152 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Savoie" .
+_:b152 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "�vian-les-Bains" .
+_:b152 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b153 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Savoie" .
+_:b153 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Gervais-les-Bains-Le Fayet" .
+_:b153 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b154 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Savoie" .
+_:b154 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Sallanches - Combloux - Meg�ve" .
+_:b154 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b155 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Savoie" .
+_:b155 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Thonon-les-Bains" .
+_:b155 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b156 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Paris" .
+_:b156 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Paris-Est" .
+_:b156 <http://www.owl-ontologies.com/unnamed.owl#Region> "�le-de-France" .
+_:b157 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Paris" .
+_:b157 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Paris-Montparnasse" .
+_:b157 <http://www.owl-ontologies.com/unnamed.owl#Region> "�le-de-France" .
+_:b158 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Paris" .
+_:b158 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Paris-Nord" .
+_:b158 <http://www.owl-ontologies.com/unnamed.owl#Region> "�le-de-France" .
+_:b159 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Seine-Maritime" .
+_:b159 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Le Havre" .
+_:b159 <http://www.owl-ontologies.com/unnamed.owl#Region> "Normandie" .
+_:b16 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Bouches-du-Rh�ne" .
+_:b16 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Arles" .
+_:b16 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b160 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Seine-et-Marne" .
+_:b160 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "A�roport Charles-de-Gaulle TGV\n" .
+_:b160 <http://www.owl-ontologies.com/unnamed.owl#Region> "�le-de-France" .
+_:b161 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Yvelines" .
+_:b161 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Mantes-la-Jolie" .
+_:b161 <http://www.owl-ontologies.com/unnamed.owl#Region> "�le-de-France" .
+_:b162 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Yvelines" .
+_:b162 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Versailles-Chantiers" .
+_:b162 <http://www.owl-ontologies.com/unnamed.owl#Region> "�le-de-France" .
+_:b163 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Deux-S�vres" .
+_:b163 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Niort" .
+_:b163 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b164 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Deux-S�vres" .
+_:b164 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Maixent (Deux-S�vres)" .
+_:b164 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b165 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Somme" .
+_:b165 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Amiens" .
+_:b165 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b166 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Var" .
+_:b166 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Les Arcs - Draguignan" .
+_:b166 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b167 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Var" .
+_:b167 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Hy�res" .
+_:b167 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b168 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Var" .
+_:b168 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Rapha�l-Valescure" .
+_:b168 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b169 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Var" .
+_:b169 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Toulon" .
+_:b169 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b17 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Bouches-du-Rh�ne" .
+_:b17 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Avignon TGV" .
+_:b17 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b170 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vaucluse" .
+_:b170 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Avignon-Centre" .
+_:b170 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b171 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vaucluse" .
+_:b171 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Orange" .
+_:b171 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b172 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vend�e" .
+_:b172 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "La Roche-sur-Yon" .
+_:b172 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b173 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vend�e" .
+_:b173 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Les Sables-d'Olonne" .
+_:b173 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b174 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vienne" .
+_:b174 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Ch�tellerault" .
+_:b174 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b175 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vienne" .
+_:b175 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Futuroscope" .
+_:b175 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b176 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vienne" .
+_:b176 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Poitiers" .
+_:b176 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b177 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vosges" .
+_:b177 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "�pinal" .
+_:b177 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b178 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vosges" .
+_:b178 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Remiremont" .
+_:b178 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b179 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vosges" .
+_:b179 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Di�-des-Vosges" .
+_:b179 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b18 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Bouches-du-Rh�ne" .
+_:b18 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Marseille-Saint-Charles" .
+_:b18 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b180 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Vosges" .
+_:b180 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Michel - Valloire" .
+_:b180 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b181 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Territoire de Belfort" .
+_:b181 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Belfort - Montb�liard TGV" .
+_:b181 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b182 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Essonne" .
+_:b182 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Massy - Palaiseau" .
+_:b182 <http://www.owl-ontologies.com/unnamed.owl#Region> "�le-de-France" .
+_:b183 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Essonne" .
+_:b183 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Massy TGV" .
+_:b183 <http://www.owl-ontologies.com/unnamed.owl#Region> "�le-de-France" .
+_:b19 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Bouches-du-Rh�ne" .
+_:b19 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Miramas" .
+_:b19 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b2 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ain" .
+_:b2 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Bellegarde" .
+_:b2 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b20 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Charente" .
+_:b20 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Angoul�me" .
+_:b20 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b21 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Charente" .
+_:b21 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Champagne-Ardenne TGV" .
+_:b21 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b22 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Charente-Maritime" .
+_:b22 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "La Rochelle-Ville" .
+_:b22 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b23 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Charente-Maritime" .
+_:b23 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Rouen-Rive-Droite" .
+_:b23 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b24 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Charente-Maritime" .
+_:b24 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Surg�res" .
+_:b24 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b25 <http://www.owl-ontologies.com/unnamed.owl#Departement> "C�te-d'Or" .
+_:b25 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Beaune" .
+_:b25 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b26 <http://www.owl-ontologies.com/unnamed.owl#Departement> "C�te-d'Or" .
+_:b26 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Montbard" .
+_:b26 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b27 <http://www.owl-ontologies.com/unnamed.owl#Departement> "C�tes-d'Armor" .
+_:b27 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Guingamp" .
+_:b27 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b28 <http://www.owl-ontologies.com/unnamed.owl#Departement> "C�tes-d'Armor" .
+_:b28 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lamballe" .
+_:b28 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b29 <http://www.owl-ontologies.com/unnamed.owl#Departement> "C�tes-d'Armor" .
+_:b29 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lannion" .
+_:b29 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b3 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ain" .
+_:b3 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Bourg-en-Bresse" .
+_:b3 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b30 <http://www.owl-ontologies.com/unnamed.owl#Departement> "C�tes-d'Armor" .
+_:b30 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "M�con-Ville" .
+_:b30 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b31 <http://www.owl-ontologies.com/unnamed.owl#Departement> "C�tes-d'Armor" .
+_:b31 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Brieuc" .
+_:b31 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b32 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Doubs" .
+_:b32 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Besan�on-Viotte" .
+_:b32 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b33 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Doubs" .
+_:b33 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Frasne" .
+_:b33 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b34 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Dr�me" .
+_:b34 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Mont�limar" .
+_:b34 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b35 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Dr�me" .
+_:b35 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Valence TGV" .
+_:b35 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b36 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Dr�me" .
+_:b36 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Valence-Ville" .
+_:b36 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b37 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Finist�re" .
+_:b37 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Brest" .
+_:b37 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b38 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Finist�re" .
+_:b38 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Landerneau" .
+_:b38 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b39 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Finist�re" .
+_:b39 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Quimper" .
+_:b39 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b4 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ain" .
+_:b4 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Cluses" .
+_:b4 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b40 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Finist�re" .
+_:b40 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Quimperl�" .
+_:b40 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b41 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Finist�re" .
+_:b41 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Rosporden" .
+_:b41 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b42 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Finist�re" .
+_:b42 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Morlaix" .
+_:b42 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b43 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Gard" .
+_:b43 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "N�mes" .
+_:b43 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b44 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Gard" .
+_:b44 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "N�mes-Pont-du-Gard" .
+_:b44 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b45 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Garonne" .
+_:b45 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Meuse TGV" .
+_:b45 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b46 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Haute-Garonne" .
+_:b46 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Toulouse-Matabiau" .
+_:b46 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b47 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Gironde" .
+_:b47 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Arcachon" .
+_:b47 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b48 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Gironde" .
+_:b48 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Bordeaux-Saint-Jean" .
+_:b48 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b49 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Gironde" .
+_:b49 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Facture-Biganos" .
+_:b49 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b5 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ain" .
+_:b5 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Nurieux" .
+_:b5 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b50 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Gironde" .
+_:b50 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Libourne" .
+_:b50 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b51 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Gironde" .
+_:b51 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "La Teste" .
+_:b51 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b52 <http://www.owl-ontologies.com/unnamed.owl#Departement> "H�rault" .
+_:b52 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Agde" .
+_:b52 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b53 <http://www.owl-ontologies.com/unnamed.owl#Departement> "H�rault" .
+_:b53 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "B�ziers" .
+_:b53 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b54 <http://www.owl-ontologies.com/unnamed.owl#Departement> "H�rault" .
+_:b54 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Montpellier-Saint-Roch" .
+_:b54 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b55 <http://www.owl-ontologies.com/unnamed.owl#Departement> "H�rault" .
+_:b55 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Montpellier-Sud-de-France" .
+_:b55 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b56 <http://www.owl-ontologies.com/unnamed.owl#Departement> "H�rault" .
+_:b56 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "S�te" .
+_:b56 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b57 <http://www.owl-ontologies.com/unnamed.owl#Departement> "H�rault" .
+_:b57 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "TGV Haute-Picardie" .
+_:b57 <http://www.owl-ontologies.com/unnamed.owl#Region> "Occitanie" .
+_:b58 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ille-et-Vilaine" .
+_:b58 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Dol-de-Bretagne" .
+_:b58 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b59 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ille-et-Vilaine" .
+_:b59 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Plouaret-Tr�gor" .
+_:b59 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b6 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Alpes-Maritimes" .
+_:b6 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Antibes" .
+_:b6 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b60 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ille-et-Vilaine" .
+_:b60 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Redon" .
+_:b60 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b61 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ille-et-Vilaine" .
+_:b61 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Rennes" .
+_:b61 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b62 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ille-et-Vilaine" .
+_:b62 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Malo" .
+_:b62 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b63 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Ille-et-Vilaine" .
+_:b63 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Vitr�" .
+_:b63 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b64 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Indre-et-Loire" .
+_:b64 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lorraine TGV" .
+_:b64 <http://www.owl-ontologies.com/unnamed.owl#Region> "Centre-Val de Loire" .
+_:b65 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Indre-et-Loire" .
+_:b65 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Pierre-des-Corps" .
+_:b65 <http://www.owl-ontologies.com/unnamed.owl#Region> "Centre-Val de Loire" .
+_:b66 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Indre-et-Loire" .
+_:b66 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Tours" .
+_:b66 <http://www.owl-ontologies.com/unnamed.owl#Region> "Centre-Val de Loire" .
+_:b67 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Is�re" .
+_:b67 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Grenoble" .
+_:b67 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b68 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Jura" .
+_:b68 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Mouchard" .
+_:b68 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bourgogne-Franche-Comt�" .
+_:b69 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Landes" .
+_:b69 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Dax" .
+_:b69 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b7 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Alpes-Maritimes" .
+_:b7 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Cannes" .
+_:b7 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b70 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loir-et-Cher" .
+_:b70 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Vend�me - Villiers-sur-Loir" .
+_:b70 <http://www.owl-ontologies.com/unnamed.owl#Region> "Centre-Val de Loire" .
+_:b71 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire" .
+_:b71 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Montauban-Ville-Bourbon" .
+_:b71 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b72 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire" .
+_:b72 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-�tienne-Ch�teaucreux" .
+_:b72 <http://www.owl-ontologies.com/unnamed.owl#Region> "Auvergne-Rh�ne-Alpes" .
+_:b73 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire-Atlantique" .
+_:b73 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Ancenis" .
+_:b73 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b74 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire-Atlantique" .
+_:b74 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "La Baule-Escoublac" .
+_:b74 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b75 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire-Atlantique" .
+_:b75 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Le Croisic" .
+_:b75 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b76 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire-Atlantique" .
+_:b76 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Nantes" .
+_:b76 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b77 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire-Atlantique" .
+_:b77 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Pornichet" .
+_:b77 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b78 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire-Atlantique" .
+_:b78 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Le Pouliguen" .
+_:b78 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b79 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Loire-Atlantique" .
+_:b79 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saint-Nazaire" .
+_:b79 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b8 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Alpes-Maritimes" .
+_:b8 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Menton" .
+_:b8 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b80 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Lot-et-Garonne" .
+_:b80 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Agen" .
+_:b80 <http://www.owl-ontologies.com/unnamed.owl#Region> "Nouvelle-Aquitaine" .
+_:b81 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Maine-et-Loire" .
+_:b81 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Angers-Saint-Laud" .
+_:b81 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b82 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Maine-et-Loire" .
+_:b82 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Saumur" .
+_:b82 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b83 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Marne" .
+_:b83 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Ch�lons-en-Champagne" .
+_:b83 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b84 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Marne" .
+_:b84 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Reims" .
+_:b84 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b85 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Marne" .
+_:b85 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Vitry-le-Fran�ois" .
+_:b85 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b86 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Mayenne" .
+_:b86 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Laval" .
+_:b86 <http://www.owl-ontologies.com/unnamed.owl#Region> "Pays de la Loire" .
+_:b87 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Meurthe-et-Moselle" .
+_:b87 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lun�ville" .
+_:b87 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b88 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Meurthe-et-Moselle" .
+_:b88 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Nancy-Ville" .
+_:b88 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b89 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Meuse" .
+_:b89 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Bar-le-Duc" .
+_:b89 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b9 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Alpes-Maritimes" .
+_:b9 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Nice-Ville" .
+_:b9 <http://www.owl-ontologies.com/unnamed.owl#Region> "Provence-Alpes-C�te d'Azur" .
+_:b90 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Morbihan" .
+_:b90 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Auray" .
+_:b90 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b91 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Morbihan" .
+_:b91 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Lorient" .
+_:b91 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b92 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Morbihan" .
+_:b92 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Vannes" .
+_:b92 <http://www.owl-ontologies.com/unnamed.owl#Region> "Bretagne" .
+_:b93 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Moselle" .
+_:b93 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Forbach" .
+_:b93 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b94 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Moselle" .
+_:b94 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Metz-Ville" .
+_:b94 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b95 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Moselle" .
+_:b95 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Sarrebourg" .
+_:b95 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b96 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Moselle" .
+_:b96 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Thionville" .
+_:b96 <http://www.owl-ontologies.com/unnamed.owl#Region> "Grand Est" .
+_:b97 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b97 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Croix - Wasquehal" .
+_:b97 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b98 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b98 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Douai" .
+_:b98 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
+_:b99 <http://www.owl-ontologies.com/unnamed.owl#Departement> "Nord" .
+_:b99 <http://www.owl-ontologies.com/unnamed.owl#Libelle> "Dunkerque" .
+_:b99 <http://www.owl-ontologies.com/unnamed.owl#Region> "Hauts-de-France" .
