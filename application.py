@@ -27,7 +27,8 @@ def query_choice():
     print("\n 4) afficher le nom des gares et bibliothèques situées dans une région de votre choix")
     print("\n 5) afficher les différentes régions desservies par les gares de TGV")
     print("\n 6) afficher les bibliothèques situées dans une ville de votre choix")
-    print("\n 7) formuler votre propre requête")
+    print("\n 7) affichage des noms des bibliothèques en fonction d'un code postal")
+    print("\n 8) formuler votre propre requête")
 
 
 
@@ -131,8 +132,22 @@ def main():
         LIMIT 10
         """
   
-    
     if x=="7":
+        ville=input("Saisissez un code postal ")
+        query="""prefix ont:<http://www.owl-ontologies.com/unnamed.owl#>
+
+        SELECT ?name1 ?name2
+        WHERE {
+        ?sub ont:biblip ?bp .
+        ?bp ont:CodePostal "86120" .
+        ?bp ont:Libelle ?name1 .
+        ?sub2 ont:biblip ?be .
+        ?be ont:CodePostal "86120" .
+        ?be ont:Libelle ?name2 .
+        }
+        """
+        
+    if x=="8":
         reg=input("Saisissez votre requête (sans les préfixes) ")
         query="""prefix ont:<http://www.owl-ontologies.com/unnamed.owl#> """
         query=query+reg
